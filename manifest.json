@@ -1,0 +1,8 @@
+{
+  "name": "i18n",
+  "id": "1096657960513339844",
+  "api": "1.0.0",
+  "main": "./figma/dist/figma.es.js",
+  "editorType": ["figma", "figjam"],
+  "ui": "./ui/dist/index.html"
+}
