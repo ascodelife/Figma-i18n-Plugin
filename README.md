@@ -59,3 +59,4 @@ I prefer to use FigJam for the example, but this also applies to Figma.
 ![example](docs/example.gif)
 
 ## Related articles
+[Vite+Figma打造设计师专属的i18n插件](https://juejin.cn/post/7089313857235058719/)
